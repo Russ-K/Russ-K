@@ -7,3 +7,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Russ-K)](https://github.com/Russ-K/github-profile-trophy)
 
+![Russ-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russ-K&show_icons=true&theme=dark)
